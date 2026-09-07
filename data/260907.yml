@@ -5,7 +5,7 @@ about:
   head: c0fcd43
   archived: false
   latestVersion: "v0.1.0"
-  collectedAt: 2026-09-07T05:25:53Z
+  collectedAt: 2026-09-07T18:58:38Z
 timeline:
   created: 2025-07-02
   lastCommit: 2026-09-06
@@ -13,10 +13,10 @@ timeline:
 popularity:
   star: 677
   watcher: 2
-  fork: 12
+  fork: 14
   release: 2
   contributor: 2
-  pullRequest: 29
+  pullRequest: 30
   issue: 14
 language:
   Rust: 165073
@@ -27,7 +27,7 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 7
-    openPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 0
     commit: 9
@@ -35,7 +35,7 @@ recent:
     since: 2026-07-09
     release: 1
     mergedPR: 9
-    openPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 1
     commit: 11
@@ -43,7 +43,7 @@ recent:
     since: 2026-06-09
     release: 1
     mergedPR: 14
-    openPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 1
     commit: 24
@@ -51,7 +51,7 @@ recent:
     since: 2026-03-11
     release: 1
     mergedPR: 14
-    openPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 1
     commit: 24
@@ -59,7 +59,7 @@ recent:
     since: 2025-09-12
     release: 2
     mergedPR: 23
-    openPR: 3
+    openPR: 4
     closedIssue: 2
     openIssue: 12
     commit: 113
@@ -67,20 +67,20 @@ recent:
     since: 2024-09-17
     release: 2
     mergedPR: 23
-    openPR: 3
+    openPR: 4
     closedIssue: 2
     openIssue: 12
     commit: 188
 total:
   release: 2
   mergedPR: 23
-  openPR: 3
+  openPR: 4
   closedIssue: 2
   openIssue: 12
   commit: 188
 ---
 path: /home/runner/.x-repo/github.com/kaushiksrini/parqeye
-collectedAt: 2026-09-07T05:25:53Z
+collectedAt: 2026-09-07T18:58:39Z
 loc:
   Rust:
     code: 4165
@@ -111,7 +111,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:25:54+00:00
+  collectedAt: 2026-09-07T18:58:39+00:00
   platform:
     darwin/arm64:
       name:  parqeye-aarch64-apple-darwin.tar.xz
