@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.0"
   latestRelease: "v0.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:31:09Z
+  collectedAt: 2026-09-11T19:21:49Z
 timeline:
   created: 2025-07-02
   lastCommit: 2026-09-06
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-17
   lastPrerelease: 
 popularity:
-  star: 678
+  star: 679
   watcher: 2
   fork: 14
   release: 2
@@ -84,7 +84,7 @@ total:
   commit: 188
 ---
 path: /home/runner/.x-repo/github.com/kaushiksrini/parqeye
-collectedAt: 2026-09-11T05:31:11Z
+collectedAt: 2026-09-11T19:21:51Z
 loc:
   Rust:
     code: 4165
