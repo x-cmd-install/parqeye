@@ -14,11 +14,11 @@ x install parqeye
 
 ## Code insight
 
-Total: **4,309** lines of code across **34** files in the top 5 languages.
+Total: **4,478** lines of code across **34** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 4,231 | 204 | 633 | 28 |
+| Rust | 4,400 | 210 | 667 | 28 |
 | Toml | 61 | 10 | 8 | 3 |
 | Makefile | 17 | 0 | 10 | 1 |
 | Markdown | 0 | 71 | 45 | 2 |
@@ -31,7 +31,7 @@ Total: **4,309** lines of code across **34** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.0` (2026-08-17)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 19
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **4,309** lines of code across **34** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 25 · **Open PRs**: 4 · **Closed issues**: 2 · **Open issues**: 12 · **Commits**: 192
+- **Releases**: 2 · **Merged PRs**: 26 · **Open PRs**: 3 · **Closed issues**: 2 · **Open issues**: 12 · **Commits**: 197
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 8 | 2 | 0 | 0 | 6 |
-| last60d | 2026-07-15 | 1 | 10 | 2 | 0 | 1 | 12 |
-| 90d | 2026-06-15 | 1 | 16 | 2 | 0 | 1 | 26 |
-| last180d | 2026-03-17 | 1 | 16 | 2 | 0 | 1 | 26 |
-| 360d | 2025-09-18 | 2 | 25 | 4 | 2 | 12 | 107 |
-| last720d | 2024-09-23 | 2 | 25 | 4 | 2 | 12 | 192 |
+| 30d | 2026-08-15 | 1 | 9 | 1 | 0 | 0 | 10 |
+| last60d | 2026-07-16 | 1 | 11 | 1 | 0 | 1 | 16 |
+| 90d | 2026-06-16 | 1 | 17 | 1 | 0 | 1 | 30 |
+| last180d | 2026-03-18 | 1 | 17 | 1 | 0 | 1 | 30 |
+| 360d | 2025-09-19 | 2 | 26 | 3 | 2 | 12 | 111 |
+| last720d | 2024-09-24 | 2 | 26 | 3 | 2 | 12 | 197 |
 
 ## Release assets
 
@@ -77,14 +77,6 @@ Total: **4,309** lines of code across **34** files in the top 5 languages.
 | [source.tar.gz](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/source.tar.gz) | 1.3 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/parqeye). **5** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.1.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for parqeye lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `parqeye` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -94,4 +86,4 @@ Install metadata for parqeye lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:32:30Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:42:44Z._
