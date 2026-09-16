@@ -14,14 +14,14 @@ x install parqeye
 
 ## 代码洞察
 
-合计: **4,478** 行代码（覆盖前 5 种语言、共 **34** 个文件）。
+合计: **4,610** 行代码（覆盖前 5 种语言、共 **34** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 4,400 | 210 | 667 | 28 |
+| Rust | 4,532 | 203 | 681 | 28 |
 | Toml | 61 | 10 | 8 | 3 |
 | Makefile | 17 | 0 | 10 | 1 |
-| Markdown | 0 | 71 | 45 | 2 |
+| Markdown | 0 | 95 | 52 | 2 |
 
 ## 源代码
 
@@ -30,52 +30,52 @@ x install parqeye
 
 ## 发布
 
-- **最新版本**: `v0.1.0` (2026-08-17)
-- **最近提交**: 2026-09-14
+- **最新版本**: `v0.2.0` (2026-09-16)
+- **最近提交**: 2026-09-16
 - **Release 含资产**: 19 个
 
 ## 流行度
 
-- **Star**: 679 · **Fork**: 14 · **开放 issue**: 14 · **贡献者**: 3
+- **Star**: 679 · **Fork**: 14 · **开放 issue**: 14 · **贡献者**: 4
 
 ## 累计统计
 
-- **发布数**: 2 · **已合并 PR**: 26 · **开放 PR**: 4 · **已关闭 issue**: 2 · **开放 issue**: 12 · **提交数**: 197
+- **发布数**: 3 · **已合并 PR**: 30 · **开放 PR**: 2 · **已关闭 issue**: 2 · **开放 issue**: 12 · **提交数**: 208
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 9 | 2 | 0 | 0 | 10 |
-| last60d | 2026-07-17 | 1 | 11 | 2 | 0 | 1 | 16 |
-| 90d | 2026-06-17 | 1 | 17 | 2 | 0 | 1 | 30 |
-| last180d | 2026-03-19 | 1 | 17 | 2 | 0 | 1 | 30 |
-| 360d | 2025-09-20 | 2 | 26 | 4 | 2 | 12 | 111 |
-| last720d | 2024-09-25 | 2 | 26 | 4 | 2 | 12 | 197 |
+| 30d | 2026-08-17 | 2 | 11 | 0 | 0 | 0 | 17 |
+| last60d | 2026-07-18 | 2 | 14 | 0 | 0 | 1 | 23 |
+| 90d | 2026-06-18 | 2 | 21 | 0 | 0 | 1 | 37 |
+| last180d | 2026-03-20 | 2 | 21 | 0 | 0 | 1 | 37 |
+| 360d | 2025-09-21 | 3 | 30 | 2 | 2 | 12 | 118 |
+| last720d | 2024-09-26 | 3 | 30 | 2 | 2 | 12 | 208 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [dist-manifest.json](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/dist-manifest.json) | 25.0 KiB | `other` |
-| [parqeye-aarch64-apple-darwin.tar.xz](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-aarch64-apple-darwin.tar.xz) | 11.8 MiB | `native/darwin/arm64` |
-| [parqeye-aarch64-apple-darwin.tar.xz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-aarch64-apple-darwin.tar.xz.sha256) | 103 B | `native/darwin/arm64` |
-| [parqeye-aarch64-unknown-linux-gnu.tar.xz](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-aarch64-unknown-linux-gnu.tar.xz) | 12.2 MiB | `native/linux/arm64/glibc` |
-| [parqeye-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-aarch64-unknown-linux-gnu.tar.xz.sha256) | 108 B | `native/linux/arm64/glibc` |
-| [parqeye-installer.sh](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-installer.sh) | 52.1 KiB | `other` |
-| [parqeye-npm-package.tar.gz](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-npm-package.tar.gz) | 13.6 KiB | `native/unknown` |
-| [parqeye-x86_64-apple-darwin.tar.xz](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-x86_64-apple-darwin.tar.xz) | 12.2 MiB | `native/darwin/x64` |
-| [parqeye-x86_64-apple-darwin.tar.xz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-x86_64-apple-darwin.tar.xz.sha256) | 102 B | `native/darwin/x64` |
-| [parqeye-x86_64-pc-windows-msvc.zip](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-x86_64-pc-windows-msvc.zip) | 20.4 MiB | `native/win/x64` |
-| [parqeye-x86_64-pc-windows-msvc.zip.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-x86_64-pc-windows-msvc.zip.sha256) | 102 B | `native/win/x64` |
-| [parqeye-x86_64-unknown-linux-gnu.tar.xz](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-x86_64-unknown-linux-gnu.tar.xz) | 12.9 MiB | `native/linux/x64/glibc` |
-| [parqeye-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-x86_64-unknown-linux-gnu.tar.xz.sha256) | 107 B | `native/linux/x64/glibc` |
-| [parqeye-x86_64-unknown-linux-musl.tar.xz](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-x86_64-unknown-linux-musl.tar.xz) | 13.4 MiB | `native/linux/x64/musl` |
-| [parqeye-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye-x86_64-unknown-linux-musl.tar.xz.sha256) | 108 B | `native/linux/x64/musl` |
-| [parqeye.rb](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/parqeye.rb) | 2.4 KiB | `other` |
-| [sha256.sum](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/sha256.sum) | 798 B | `other` |
-| [source.tar.gz](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/source.tar.gz) | 1.3 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.1.0/source.tar.gz.sha256) | 81 B | `other` |
+| [dist-manifest.json](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/dist-manifest.json) | 27.8 KiB | `other` |
+| [parqeye-aarch64-apple-darwin.tar.xz](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-aarch64-apple-darwin.tar.xz) | 13.2 MiB | `native/darwin/arm64` |
+| [parqeye-aarch64-apple-darwin.tar.xz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-aarch64-apple-darwin.tar.xz.sha256) | 103 B | `native/darwin/arm64` |
+| [parqeye-aarch64-unknown-linux-gnu.tar.xz](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-aarch64-unknown-linux-gnu.tar.xz) | 14.5 MiB | `native/linux/arm64/glibc` |
+| [parqeye-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-aarch64-unknown-linux-gnu.tar.xz.sha256) | 108 B | `native/linux/arm64/glibc` |
+| [parqeye-installer.sh](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-installer.sh) | 52.1 KiB | `other` |
+| [parqeye-npm-package.tar.gz](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-npm-package.tar.gz) | 14.0 KiB | `native/unknown` |
+| [parqeye-x86_64-apple-darwin.tar.xz](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-x86_64-apple-darwin.tar.xz) | 14.5 MiB | `native/darwin/x64` |
+| [parqeye-x86_64-apple-darwin.tar.xz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-x86_64-apple-darwin.tar.xz.sha256) | 102 B | `native/darwin/x64` |
+| [parqeye-x86_64-pc-windows-msvc.zip](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-x86_64-pc-windows-msvc.zip) | 24.3 MiB | `native/win/x64` |
+| [parqeye-x86_64-pc-windows-msvc.zip.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-x86_64-pc-windows-msvc.zip.sha256) | 102 B | `native/win/x64` |
+| [parqeye-x86_64-unknown-linux-gnu.tar.xz](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-x86_64-unknown-linux-gnu.tar.xz) | 15.2 MiB | `native/linux/x64/glibc` |
+| [parqeye-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-x86_64-unknown-linux-gnu.tar.xz.sha256) | 107 B | `native/linux/x64/glibc` |
+| [parqeye-x86_64-unknown-linux-musl.tar.xz](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-x86_64-unknown-linux-musl.tar.xz) | 15.9 MiB | `native/linux/x64/musl` |
+| [parqeye-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-x86_64-unknown-linux-musl.tar.xz.sha256) | 108 B | `native/linux/x64/musl` |
+| [parqeye.rb](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye.rb) | 2.4 KiB | `other` |
+| [sha256.sum](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/sha256.sum) | 798 B | `other` |
+| [source.tar.gz](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/source.tar.gz) | 1.3 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ parqeye 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T05:51:38Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T05:47:24Z._
