@@ -4,7 +4,7 @@
 
 Peek inside Parquet files right from your terminal
 
-![parqeye](https://repo.x-cmd.io/parqeye.svg)
+[![x-cmd/install — parqeye Code Quality Monitoring Repo Card](https://repo.x-cmd.io/parqeye.svg)](https://x-cmd.com/install/parqeye)
 
 ## Install
 
@@ -40,18 +40,18 @@ Total: **4,610** lines of code across **34** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 30 · **Open PRs**: 2 · **Closed issues**: 2 · **Open issues**: 12 · **Commits**: 208
+- **Releases**: 3 · **Merged PRs**: 30 · **Open PRs**: 3 · **Closed issues**: 2 · **Open issues**: 12 · **Commits**: 208
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 10 | 0 | 0 | 0 | 17 |
-| last60d | 2026-07-20 | 2 | 14 | 0 | 0 | 1 | 23 |
-| 90d | 2026-06-20 | 2 | 21 | 0 | 0 | 1 | 37 |
-| last180d | 2026-03-22 | 2 | 21 | 0 | 0 | 1 | 37 |
-| 360d | 2025-09-23 | 3 | 30 | 2 | 2 | 12 | 118 |
-| last720d | 2024-09-28 | 3 | 30 | 2 | 2 | 12 | 208 |
+| 30d | 2026-08-21 | 1 | 10 | 1 | 0 | 0 | 14 |
+| last60d | 2026-07-22 | 2 | 14 | 1 | 0 | 1 | 22 |
+| 90d | 2026-06-22 | 2 | 21 | 1 | 0 | 1 | 37 |
+| last180d | 2026-03-24 | 2 | 21 | 1 | 0 | 1 | 37 |
+| 360d | 2025-09-25 | 3 | 30 | 3 | 2 | 12 | 112 |
+| last720d | 2024-09-30 | 3 | 30 | 3 | 2 | 12 | 208 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for parqeye lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:39:48Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:45:24Z._

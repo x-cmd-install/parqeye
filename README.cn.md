@@ -4,7 +4,7 @@
 
 Peek inside Parquet files right from your terminal
 
-![parqeye](https://repo.x-cmd.io/parqeye.svg?lang=zh)
+[![x-cmd/install — parqeye Code Quality Monitoring Repo Card](https://repo.x-cmd.io/parqeye.svg?lang=zh)](https://x-cmd.com/install/parqeye)
 
 ## 安装
 
@@ -40,18 +40,18 @@ x install parqeye
 
 ## 累计统计
 
-- **发布数**: 3 · **已合并 PR**: 30 · **开放 PR**: 2 · **已关闭 issue**: 2 · **开放 issue**: 12 · **提交数**: 208
+- **发布数**: 3 · **已合并 PR**: 30 · **开放 PR**: 3 · **已关闭 issue**: 2 · **开放 issue**: 12 · **提交数**: 208
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 10 | 0 | 0 | 0 | 17 |
-| last60d | 2026-07-20 | 2 | 14 | 0 | 0 | 1 | 23 |
-| 90d | 2026-06-20 | 2 | 21 | 0 | 0 | 1 | 37 |
-| last180d | 2026-03-22 | 2 | 21 | 0 | 0 | 1 | 37 |
-| 360d | 2025-09-23 | 3 | 30 | 2 | 2 | 12 | 118 |
-| last720d | 2024-09-28 | 3 | 30 | 2 | 2 | 12 | 208 |
+| 30d | 2026-08-21 | 1 | 10 | 1 | 0 | 0 | 14 |
+| last60d | 2026-07-22 | 2 | 14 | 1 | 0 | 1 | 22 |
+| 90d | 2026-06-22 | 2 | 21 | 1 | 0 | 1 | 37 |
+| last180d | 2026-03-24 | 2 | 21 | 1 | 0 | 1 | 37 |
+| 360d | 2025-09-25 | 3 | 30 | 3 | 2 | 12 | 112 |
+| last720d | 2024-09-30 | 3 | 30 | 3 | 2 | 12 | 208 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ parqeye 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:39:48Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:45:25Z._
