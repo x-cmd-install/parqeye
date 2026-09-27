@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13843312,
       "digest": "sha256:728905b69b6e05a27b73e7c8655f01f12f3130510afecea9dc6236597d325cd2",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-09-16T02:46:35Z",
       "updated_at": "2026-09-16T02:46:36Z",
       "browser_download_url": "https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-aarch64-apple-darwin.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:115bbd42cac82a6aff1da78e7ab3c36379c3c83331400711f7c4b1c2c06f2175",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-16T02:46:35Z",
       "updated_at": "2026-09-16T02:46:36Z",
       "browser_download_url": "https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-aarch64-apple-darwin.tar.xz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:119b1773da9d1ea613cdd07344f7d8a6641835d069d46277c3e29dc3dca3db7d",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-16T02:46:35Z",
       "updated_at": "2026-09-16T02:46:36Z",
       "browser_download_url": "https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 25515888,
       "digest": "sha256:d613e4819721de8f0415e3ced8df60912508ac9d9b0c940a30413f53e17fe52f",
-      "download_count": 49,
+      "download_count": 52,
       "created_at": "2026-09-16T02:46:36Z",
       "updated_at": "2026-09-16T02:46:38Z",
       "browser_download_url": "https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-x86_64-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 15924900,
       "digest": "sha256:7f9b444665132b827e904fc360455209f37da27417dffcbf7b0741285bd53e24",
-      "download_count": 52,
+      "download_count": 54,
       "created_at": "2026-09-16T02:46:37Z",
       "updated_at": "2026-09-16T02:46:38Z",
       "browser_download_url": "https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-x86_64-unknown-linux-gnu.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:d63b5d4ddfaccd48960fbe8e4fae2c40d2850abe07c2ea4c13f14954e371ecfc",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-16T02:46:37Z",
       "updated_at": "2026-09-16T02:46:37Z",
       "browser_download_url": "https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:db2172df06951dcd210968f1f0ed985e68ee4ceb625ea62bfd2dea897bcf070e",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-16T02:46:37Z",
       "updated_at": "2026-09-16T02:46:37Z",
       "browser_download_url": "https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye-x86_64-unknown-linux-musl.tar.xz.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2482,
       "digest": "sha256:95b5b61a7cbaf2338ce1d5c316c89eca238330d1b8ab9e2d22ad812a829f026f",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-16T02:46:37Z",
       "updated_at": "2026-09-16T02:46:38Z",
       "browser_download_url": "https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/parqeye.rb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:7e6d3ed78e5ad003e02724206e6f77ada656fc8de174a22092fba3100538ac5d",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-16T02:46:38Z",
       "updated_at": "2026-09-16T02:46:38Z",
       "browser_download_url": "https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/source.tar.gz.sha256"
