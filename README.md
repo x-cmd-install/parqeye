@@ -14,11 +14,11 @@ x install parqeye
 
 ## Code insight
 
-Total: **4,610** lines of code across **34** files in the top 5 languages.
+Total: **4,658** lines of code across **34** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 4,532 | 203 | 681 | 28 |
+| Rust | 4,580 | 203 | 686 | 28 |
 | Toml | 61 | 10 | 8 | 3 |
 | Makefile | 17 | 0 | 10 | 1 |
 | Markdown | 0 | 95 | 52 | 2 |
@@ -31,7 +31,7 @@ Total: **4,610** lines of code across **34** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.0` (2026-09-16)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-10-25
 - **Assets in release**: 19
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **4,610** lines of code across **34** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 30 · **Open PRs**: 4 · **Closed issues**: 2 · **Open issues**: 12 · **Commits**: 208
+- **Releases**: 3 · **Merged PRs**: 31 · **Open PRs**: 5 · **Closed issues**: 2 · **Open issues**: 12 · **Commits**: 210
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 1 | 8 | 2 | 0 | 0 | 14 |
-| 90d | 2026-07-26 | 2 | 14 | 2 | 0 | 1 | 22 |
-| last180d | 2026-04-27 | 2 | 21 | 2 | 0 | 1 | 37 |
-| 360d | 2025-10-29 | 3 | 27 | 4 | 2 | 12 | 60 |
-| last720d | 2024-11-03 | 3 | 30 | 4 | 2 | 12 | 208 |
+| 30d | 2026-09-25 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-08-26 | 1 | 8 | 3 | 0 | 0 | 15 |
+| 90d | 2026-07-27 | 2 | 15 | 3 | 0 | 1 | 23 |
+| last180d | 2026-04-28 | 2 | 22 | 3 | 0 | 1 | 38 |
+| 360d | 2025-10-30 | 3 | 28 | 5 | 2 | 12 | 52 |
+| last720d | 2024-11-04 | 3 | 31 | 5 | 2 | 12 | 210 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for parqeye lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:09:15Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:11:10Z._
