@@ -31,7 +31,7 @@ Total: **4,658** lines of code across **34** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.0` (2026-09-16)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-27
 - **Assets in release**: 19
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **4,658** lines of code across **34** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 31 · **Open PRs**: 5 · **Closed issues**: 2 · **Open issues**: 12 · **Commits**: 210
+- **Releases**: 3 · **Merged PRs**: 32 · **Open PRs**: 4 · **Closed issues**: 2 · **Open issues**: 12 · **Commits**: 212
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-28 | 1 | 8 | 3 | 0 | 0 | 15 |
-| 90d | 2026-07-29 | 2 | 15 | 3 | 0 | 1 | 23 |
-| last180d | 2026-04-30 | 2 | 22 | 3 | 0 | 1 | 38 |
-| 360d | 2025-11-01 | 3 | 27 | 5 | 2 | 12 | 52 |
-| last720d | 2024-11-06 | 3 | 31 | 5 | 2 | 12 | 210 |
+| 30d | 2026-09-28 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last60d | 2026-08-29 | 1 | 9 | 2 | 0 | 0 | 16 |
+| 90d | 2026-07-30 | 2 | 16 | 2 | 0 | 1 | 24 |
+| last180d | 2026-05-01 | 2 | 23 | 2 | 0 | 1 | 39 |
+| 360d | 2025-11-02 | 3 | 28 | 4 | 2 | 12 | 53 |
+| last720d | 2024-11-07 | 3 | 32 | 4 | 2 | 12 | 212 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for parqeye lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:48:25Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:24:56Z._
