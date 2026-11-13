@@ -40,18 +40,18 @@ Total: **6,549** lines of code across **36** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 43 · **Open PRs**: 2 · **Closed issues**: 3 · **Open issues**: 11 · **Commits**: 244
+- **Releases**: 3 · **Merged PRs**: 43 · **Open PRs**: 3 · **Closed issues**: 3 · **Open issues**: 11 · **Commits**: 244
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 11 | 0 | 0 | 0 | 17 |
-| last60d | 2026-09-13 | 1 | 16 | 0 | 0 | 0 | 19 |
-| 90d | 2026-08-14 | 2 | 26 | 0 | 0 | 0 | 41 |
-| last180d | 2026-05-16 | 2 | 34 | 0 | 0 | 1 | 57 |
-| 360d | 2025-11-17 | 3 | 35 | 2 | 3 | 11 | 57 |
-| last720d | 2024-11-22 | 3 | 43 | 2 | 3 | 11 | 244 |
+| 30d | 2026-10-14 | 0 | 11 | 1 | 0 | 0 | 17 |
+| last60d | 2026-09-14 | 1 | 15 | 1 | 0 | 0 | 19 |
+| 90d | 2026-08-15 | 2 | 26 | 1 | 0 | 0 | 41 |
+| last180d | 2026-05-17 | 2 | 34 | 1 | 0 | 1 | 57 |
+| 360d | 2025-11-18 | 2 | 35 | 3 | 3 | 7 | 57 |
+| last720d | 2024-11-23 | 3 | 43 | 3 | 3 | 11 | 244 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for parqeye lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:06:11Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:43:33Z._
