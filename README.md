@@ -36,7 +36,7 @@ Total: **6,549** lines of code across **36** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 681 · **Forks**: 16 · **Open issues**: 14 · **Contributors**: 5
+- **Stars**: 682 · **Forks**: 16 · **Open issues**: 14 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **6,549** lines of code across **36** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 11 | 1 | 0 | 0 | 17 |
-| last60d | 2026-09-14 | 1 | 15 | 1 | 0 | 0 | 19 |
-| 90d | 2026-08-15 | 2 | 26 | 1 | 0 | 0 | 41 |
-| last180d | 2026-05-17 | 2 | 34 | 1 | 0 | 1 | 57 |
-| 360d | 2025-11-18 | 2 | 35 | 3 | 3 | 7 | 57 |
-| last720d | 2024-11-23 | 3 | 43 | 3 | 3 | 11 | 244 |
+| 30d | 2026-10-15 | 0 | 11 | 1 | 0 | 0 | 17 |
+| last60d | 2026-09-15 | 1 | 15 | 1 | 0 | 0 | 19 |
+| 90d | 2026-08-16 | 2 | 26 | 1 | 0 | 0 | 41 |
+| last180d | 2026-05-18 | 2 | 34 | 1 | 0 | 1 | 57 |
+| 360d | 2025-11-19 | 2 | 35 | 3 | 3 | 7 | 57 |
+| last720d | 2024-11-24 | 3 | 43 | 3 | 3 | 11 | 244 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for parqeye lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:43:33Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:41:04Z._
