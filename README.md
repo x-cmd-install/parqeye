@@ -46,12 +46,12 @@ Total: **6,549** lines of code across **36** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 11 | 1 | 0 | 0 | 17 |
-| last60d | 2026-09-22 | 0 | 12 | 1 | 0 | 0 | 18 |
-| 90d | 2026-08-23 | 1 | 22 | 1 | 0 | 0 | 36 |
-| last180d | 2026-05-25 | 2 | 34 | 1 | 0 | 1 | 57 |
-| 360d | 2025-11-26 | 2 | 34 | 2 | 2 | 3 | 57 |
-| last720d | 2024-12-01 | 3 | 43 | 3 | 3 | 11 | 244 |
+| 30d | 2026-10-23 | 0 | 11 | 1 | 0 | 0 | 10 |
+| last60d | 2026-09-23 | 0 | 12 | 1 | 0 | 0 | 18 |
+| 90d | 2026-08-24 | 1 | 22 | 1 | 0 | 0 | 34 |
+| last180d | 2026-05-26 | 2 | 34 | 1 | 0 | 1 | 57 |
+| 360d | 2025-11-27 | 2 | 34 | 2 | 2 | 3 | 57 |
+| last720d | 2024-12-02 | 3 | 43 | 3 | 3 | 11 | 244 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for parqeye lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:58:17Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:06:00Z._
