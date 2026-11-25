@@ -14,12 +14,12 @@ x install parqeye
 
 ## 代码洞察
 
-合计: **6,549** 行代码（覆盖前 5 种语言、共 **36** 个文件）。
+合计: **7,747** 行代码（覆盖前 5 种语言、共 **36** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 6,470 | 216 | 851 | 30 |
-| Toml | 62 | 10 | 8 | 3 |
+| Rust | 7,666 | 224 | 900 | 30 |
+| Toml | 64 | 10 | 8 | 3 |
 | Makefile | 17 | 0 | 10 | 1 |
 | Markdown | 0 | 106 | 59 | 2 |
 
@@ -31,7 +31,7 @@ x install parqeye
 ## 发布
 
 - **最新版本**: `v0.2.0` (2026-09-16)
-- **最近提交**: 2026-11-09
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 19 个
 
 ## 流行度
@@ -40,18 +40,18 @@ x install parqeye
 
 ## 累计统计
 
-- **发布数**: 3 · **已合并 PR**: 43 · **开放 PR**: 3 · **已关闭 issue**: 3 · **开放 issue**: 11 · **提交数**: 244
+- **发布数**: 3 · **已合并 PR**: 44 · **开放 PR**: 3 · **已关闭 issue**: 3 · **开放 issue**: 11 · **提交数**: 249
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 9 | 1 | 0 | 0 | 10 |
-| last60d | 2026-09-25 | 0 | 12 | 1 | 0 | 0 | 18 |
-| 90d | 2026-08-26 | 1 | 20 | 1 | 0 | 0 | 34 |
-| last180d | 2026-05-28 | 2 | 34 | 1 | 0 | 1 | 57 |
-| 360d | 2025-11-29 | 2 | 34 | 2 | 2 | 3 | 57 |
-| last720d | 2024-12-04 | 3 | 43 | 3 | 3 | 11 | 244 |
+| 30d | 2026-10-26 | 0 | 10 | 1 | 0 | 0 | 14 |
+| last60d | 2026-09-26 | 0 | 13 | 1 | 0 | 0 | 22 |
+| 90d | 2026-08-27 | 1 | 21 | 1 | 0 | 0 | 38 |
+| last180d | 2026-05-29 | 2 | 35 | 1 | 0 | 1 | 61 |
+| 360d | 2025-11-30 | 2 | 35 | 2 | 2 | 3 | 61 |
+| last720d | 2024-12-05 | 3 | 44 | 3 | 3 | 11 | 249 |
 
 ## Release 资产
 
@@ -77,14 +77,6 @@ x install parqeye
 | [source.tar.gz](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/source.tar.gz) | 1.3 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/kaushiksrini/parqeye/releases/download/v0.2.0/source.tar.gz.sha256) | 81 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/parqeye) 上共有 **6** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.2.0` | ✅ latest |
-
 ## 改进这些数据
 
 parqeye 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `parqeye` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -94,4 +86,4 @@ parqeye 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:17:28Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:07:23Z._
