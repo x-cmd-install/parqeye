@@ -14,11 +14,11 @@ x install parqeye
 
 ## Code insight
 
-Total: **7,747** lines of code across **36** files in the top 5 languages.
+Total: **8,923** lines of code across **37** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 7,666 | 224 | 900 | 30 |
+| Rust | 8,842 | 245 | 959 | 31 |
 | Toml | 64 | 10 | 8 | 3 |
 | Makefile | 17 | 0 | 10 | 1 |
 | Markdown | 0 | 106 | 59 | 2 |
@@ -40,18 +40,18 @@ Total: **7,747** lines of code across **36** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 44 · **Open PRs**: 3 · **Closed issues**: 3 · **Open issues**: 11 · **Commits**: 249
+- **Releases**: 3 · **Merged PRs**: 45 · **Open PRs**: 3 · **Closed issues**: 3 · **Open issues**: 11 · **Commits**: 252
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 10 | 1 | 0 | 0 | 14 |
-| last60d | 2026-09-26 | 0 | 13 | 1 | 0 | 0 | 22 |
-| 90d | 2026-08-27 | 1 | 21 | 1 | 0 | 0 | 38 |
-| last180d | 2026-05-29 | 2 | 35 | 1 | 0 | 1 | 61 |
-| 360d | 2025-11-30 | 2 | 35 | 2 | 2 | 3 | 61 |
-| last720d | 2024-12-05 | 3 | 44 | 3 | 3 | 11 | 249 |
+| 30d | 2026-10-27 | 0 | 11 | 1 | 0 | 0 | 16 |
+| last60d | 2026-09-27 | 0 | 14 | 1 | 0 | 0 | 24 |
+| 90d | 2026-08-28 | 1 | 22 | 1 | 0 | 0 | 40 |
+| last180d | 2026-05-30 | 2 | 36 | 1 | 0 | 1 | 63 |
+| 360d | 2025-12-01 | 2 | 36 | 2 | 2 | 3 | 63 |
+| last720d | 2024-12-06 | 3 | 45 | 3 | 3 | 11 | 252 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for parqeye lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:07:23Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:45:22Z._
