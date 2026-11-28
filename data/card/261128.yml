@@ -1,0 +1,116 @@
+about:
+  description: "Peek inside Parquet files right from your terminal"
+  license: MIT
+  homepage: 
+  head: 57619ba
+  archived: false
+  latestVersion: "v0.2.0"
+  latestRelease: "v0.2.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:09:39Z
+timeline:
+  created: 2025-07-02
+  lastCommit: 2026-11-27
+  lastVersion: 2026-09-16
+  lastRelease: 2026-09-16
+  lastPrerelease: 
+popularity:
+  star: 682
+  watcher: 2
+  fork: 16
+  release: 3
+  contributor: 5
+  pullRequest: 52
+  issue: 14
+language:
+  Rust: 459168
+  Makefile: 942
+totalBytes: 460110
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 10
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 23
+  last60d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 31
+  last90d:
+    since: 2026-08-30
+    release: 1
+    mergedPR: 24
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 47
+  last180d:
+    since: 2026-06-01
+    release: 2
+    mergedPR: 38
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 70
+  last360d:
+    since: 2025-12-03
+    release: 2
+    mergedPR: 38
+    openPR: 1
+    closedIssue: 2
+    openIssue: 3
+    commit: 70
+  last720d:
+    since: 2024-12-08
+    release: 3
+    mergedPR: 47
+    openPR: 2
+    closedIssue: 3
+    openIssue: 11
+    commit: 261
+total:
+  release: 3
+  mergedPR: 47
+  openPR: 2
+  closedIssue: 3
+  openIssue: 11
+  commit: 261
+---
+path: /home/runner/.x-repo/github.com/kaushiksrini/parqeye
+collectedAt: 2026-11-28T09:09:40Z
+loc:
+  Rust:
+    code: 11205
+    comments: 279
+    blanks: 1039
+    files: 36
+  Toml:
+    code: 66
+    comments: 10
+    blanks: 8
+    files: 3
+  Makefile:
+    code: 17
+    comments: 0
+    blanks: 10
+    files: 1
+  Markdown:
+    code: 0
+    comments: 106
+    blanks: 59
+    files: 2
+total:
+  code: 11289
+  comments: 500
+  blanks: 1121
+  files: 42
+---
+
+---
